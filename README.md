@@ -1,1 +1,1 @@
-Music Webapp made with Javascript
+Music Webapp made with Html, css and Javascript
